@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 from bson.objectid import ObjectId
-client = MongoClient("mongodb+srv://youtubepy:Ashu@youtube.sz7brr4.mongodb.net/")
+client = MongoClient("mongodb://localhost:27017/")
 db = client["ytmanager"]
 videos_collection = db["videos"]
 print(videos_collection)
