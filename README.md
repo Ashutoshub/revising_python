@@ -1,2 +1,2 @@
 # revising_python 
-//in this we will practise and revise python.
+//in this we will practice and revise python.
